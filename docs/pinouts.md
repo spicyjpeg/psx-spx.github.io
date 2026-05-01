@@ -32,7 +32,7 @@
 
 ##   Pinouts - Controller Ports and Memory-Card Ports
 #### Controller Ports and Memory-Card Ports
-![Controller pinout](controller-pinout.jpg)
+![Controller pinout](assets/pinouts/controller-pinout.jpg)
 
 ```
                    _______________________

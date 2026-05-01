@@ -32,7 +32,7 @@ plugins:
       output_path: psx-spx.pdf
 
 extra_css:
-  - css/extra.css
+  - assets/extra.css
 
 markdown_extensions:
   - pymdownx.caret
