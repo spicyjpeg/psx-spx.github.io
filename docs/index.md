@@ -49,6 +49,7 @@ To discuss the contents of this document, or hang out with likely minded people 
 [PSX Dev-Board Protocol](psxdevboardprotocol.md)<br/>
 [Hardware Numbers](hardwarenumbers.md)<br/>
 [Pinouts](pinouts.md)<br/>
+[Hardware Mods](hardwaremods.md)<br/>
 [About &amp; Credits](aboutcredits.md)<br/>
 [CDROM Video CDs (VCD)](cdromvideocdsvcd.md)<br/>
 [CDROM Internal Info on PSX CDROM Controller](cdrominternalinfoonpsxcdromcontroller.md)<br/>
