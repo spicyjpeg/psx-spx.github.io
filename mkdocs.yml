@@ -28,6 +28,7 @@ theme:
 
 plugins:
   - search
+  - fix-html-images
   - with-pdf:
       output_path: psx-spx.pdf
 
